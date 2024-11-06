@@ -1,5 +1,5 @@
 {
-  "name": "@ariesgun/ethers-decode-error",
+  "name": "@ubiquity/ethers-decode-error",
   "description": "Decode ethers.js smart contract errors into human-readable messages",
   "version": "1.1.0",
   "author": {
