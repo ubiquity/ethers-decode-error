@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ubiquity/ethers-decode-error/compare/v1.0.1...v1.0.2) (2024-12-01)
+
+
+### Bug Fixes
+
+* update package.json ([2aaf568](https://github.com/ubiquity/ethers-decode-error/commit/2aaf56864daaa6dcf5779a75f0ffb78069b349c8))
+
 ## [1.0.1](https://github.com/ubiquity/ethers-decode-error/compare/v1.0.0...v1.0.1) (2024-12-01)
 
 
