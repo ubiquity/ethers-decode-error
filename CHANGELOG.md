@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ubiquity/ethers-decode-error/compare/v1.0.0...v1.0.1) (2024-12-01)
+
+
+### Bug Fixes
+
+* added token for npm auth ([090d732](https://github.com/ubiquity/ethers-decode-error/commit/090d73261095bfc00590ebfd98cb47434c6fe207))
+
 ## 1.0.0 (2024-12-01)
 
 
